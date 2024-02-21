@@ -1,0 +1,10 @@
+CONFIGURAR O GIT LOCAL
+git config --global user.name nickicn
+git config --global user.email nicolelopes0008@gmail.com
+
+CRIAR UM PROJETO MVC COM C#
+dotnet new mvc -o Pokedex
+
+EXECUTAR O PROJETO
+cd Pokedex
+dotnet watch run
